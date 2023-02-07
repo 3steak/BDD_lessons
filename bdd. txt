@@ -10,6 +10,50 @@ Modele Physique de Données
 
 Création MCD : 
 
+------------------------ SQL : ------------------------------
 
 
+SQL : STRUCTURED QUERY LANGAGE 
 
+no SQL : Base de données sous forme de fichier, comme un JSON
+
+DDL : Data Definition Language, créer modifier strucurer 
+DML : Data Manipulation Langage, créer lire mettre à jour et supprimer des données dans la bdd
+DCL : Data Control Langage, manuputation et changement des privilèges 
+
+
+Objectifs : 
+- Sécurisé des données
+- Optimisation  car Pas de redondance de données 
+- Partage de données ( accéder aux même ressources au même moment)
+- Séparation du stockage et du traitement des données
+
+
+------------------------ SGBDR : ------------------------------
+
+
+SGBDR : Systeme de Gestion de Bases de Données Relationnel 
+
+Logiciel dédié pour la gestion d'une base de données. 
+Applications : 
+ - Structuration, maintenance, modification et accès à une base de données. 
+ - Interface Homme / Application avec la base de donnée. 
+
+Roles : 
+
+- Description des données
+définition des données, Structuration des données 
+
+
+- Manipulation des données 
+Enregistrement
+Recherche
+Mis a jour 
+Suppression 
+
+- Contrôle des données 
+Contrôle de l'intégrité des données
+Transaction et sécurité
+
+Principaux SGBDR : 
+SQL Server, SQLite, SYBASE, MariaDB 
